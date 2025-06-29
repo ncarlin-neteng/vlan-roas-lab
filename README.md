@@ -15,7 +15,7 @@ This lab demonstrates basic VLAN segmentation and inter-VLAN routing using Route
 
 ## Topology
 
-![Topology Diagram](topology.png)
+![Topology Diagram](Lab-Topology.png)
 
 ---
 
