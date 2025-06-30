@@ -19,7 +19,7 @@ This lab demonstrates basic VLAN segmentation and inter-VLAN routing using Route
 
 ---
 
-## 📦 Network Details
+## Network Details
 
 | VLAN     | Name        | Subnet            | Gateway             |
 |----------|-------------|-------------------|---------------------|
@@ -29,7 +29,7 @@ This lab demonstrates basic VLAN segmentation and inter-VLAN routing using Route
 
 ---
 
-## 🔧 Device Configurations
+## Device Configurations
 
 - [R1 (Router)](configs/R1.txt)
 - [SW1 (Switch)](configs/SW1.txt)
